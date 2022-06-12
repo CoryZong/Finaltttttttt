@@ -1,0 +1,117 @@
+{
+  "category": [
+    {
+      "id": "1",
+      "name": "取消訂單原因"
+    },
+    {
+      "id": "2",
+      "name": "發票作廢原因"
+    },
+    {
+      "id": "3",
+      "name": "收支原因"
+    },
+    {
+      "id": "4",
+      "name": "折扣原因"
+    }
+  ],
+  "reason": [
+    {
+      "id": 1,
+      "name": "客戶更換餐點",
+      "category": 1,
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "廚房出餐品項錯誤",
+      "category": 1,
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "服務人員點餐錯誤",
+      "category": 1,
+      "status": true
+    },
+    {
+      "id": 4,
+      "name": "出餐太慢客戶取消餐點",
+      "category": 1,
+      "status": true
+    },
+    {
+      "id": 5,
+      "name": "客戶更換餐點5",
+      "category": 1,
+      "status": true
+    },
+    {
+      "id": 6,
+      "name": "客戶更換餐6",
+      "category": 1,
+      "status": true
+    },
+    {
+      "id": 7,
+      "name": "客戶更換餐點7",
+      "category": 1,
+      "status": true
+    },
+    {
+      "id": 8,
+      "name": "客戶更換餐點8",
+      "category": 1,
+      "status": true
+    },
+    {
+      "id": 9,
+      "name": "客戶更換餐點9",
+      "category": 1,
+      "status": true
+    },
+    {
+      "id": 10,
+      "name": "客戶更換餐點10",
+      "category": 1,
+      "status": true
+    },
+    {
+      "id": 11,
+      "name": "客戶更換餐點11",
+      "category": 1,
+      "status": true
+    },
+    {
+      "id": 12,
+      "name": "客戶更換餐點12",
+      "category": 1,
+      "status": true
+    },
+    {
+      "id": 13,
+      "name": "客戶更換餐點13",
+      "category": 1,
+      "status": true
+    },
+    {
+      "id": 14,
+      "name": "客戶更換餐點14",
+      "category": 1,
+      "status": true
+    },
+    {
+      "id": 15,
+      "name": "客戶更換餐點15",
+      "category": 1,
+      "status": true
+    },
+    {
+      "id": 16,
+      "name": "開錯發票",
+      "category": 2
+    }
+  ]
+}
